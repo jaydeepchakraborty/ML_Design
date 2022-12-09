@@ -3,7 +3,7 @@ ML-design Tutorial
 
 <ul>
     <li>
-        Design a ranking algorithm to provide relevant products to customer.
-        <br> Design_Ranking_Algorithm_1
+        Load and Stress Testing <br>
+        Check: <b>LoadTest</b> git folder
     </li>
 </ul>
